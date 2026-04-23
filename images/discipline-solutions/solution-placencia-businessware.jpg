@@ -1,8 +1,0 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='800' height='500' viewBox='0 0 800 500'>
-  <rect width='800' height='500' fill='#1e2a3a'/>
-  <rect x='10' y='10' width='780' height='480' fill='none' stroke='#2980b9' stroke-width='2' stroke-dasharray='12,6' rx='8'/>
-  <rect x='300' y='140' width='200' height='140' fill='none' stroke='#2980b9' stroke-width='1.5' rx='4'/>
-  <text x='400' y='110' font-family='Arial,sans-serif' font-size='14' fill='#2980b9' text-anchor='middle' font-weight='bold'>SOLUTION PHOTO / SCREENSHOT</text>
-  <text x='400' y='320' font-family='Arial,sans-serif' font-size='11' fill='#8ba7c7' text-anchor='middle'>solution-placencia-businessware.jpg</text>
-  <text x='400' y='345' font-family='Arial,sans-serif' font-size='10' fill='#6b8aaa' text-anchor='middle'>Placencia — Amici Businessware financial encoding photo</text>
-</svg>
