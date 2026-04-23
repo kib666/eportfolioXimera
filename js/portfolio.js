@@ -2,6 +2,7 @@
 
 (function() {
   'use strict';
+  console.log('Portfolio JS Loaded');
 
   // --- NAV SCROLL EFFECT ---
   const nav = document.getElementById('portfolio-nav');
